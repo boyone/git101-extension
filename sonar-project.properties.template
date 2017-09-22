@@ -1,0 +1,15 @@
+sonar.projectKey=Projectkey
+sonar.projectName=ProjectName
+sonar.projectVersion=1.0
+
+sonar.sources=src/main
+sonar.java.binaries=target
+
+sonar.language=java
+sonar.sourceEncoding=UTF-8
+sonar.java.source=1.8
+
+#sonar.jacoco.itReportPath=target/jacoco.exec
+
+sonar.host.url=http://localhost:9000
+sonar.login=
